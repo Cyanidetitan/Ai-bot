@@ -10,7 +10,7 @@ from pyrogram import filters
 from pyrogram.types import InputMediaPhoto
 
 #bot
-bot_token = "5358186417:AAEd2C0Ne7SZE2ShfdGe8XFhI3_p4ceCUNc"
+bot_token = "6535153154:AAGuymX2nG6wrkfxVxe6Bqmqef2QMJRN0Cs"
 api_hash = "ac6664c07855e0455095d970a98a082d"
 api_id = "11223922"
 app = Client("my_bot",api_id=api_id, api_hash=api_hash,bot_token=bot_token)
